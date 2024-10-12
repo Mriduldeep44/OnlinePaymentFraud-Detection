@@ -50,7 +50,7 @@ Ensure the following are installed on your system:
 - 📊 [Matplotlib](https://matplotlib.org/)
 - 📉 [Scikit-learn](https://scikit-learn.org/)
 - 🎨 [Seaborn](https://seaborn.pydata.org/)
-- 🔍 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) (if OCR is used)
+
 
 ### Installation Steps
 
